@@ -1,1 +1,1 @@
-*.js linguist-language=CoffeeScript
+*.js linguist-detectable=false
